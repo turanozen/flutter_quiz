@@ -1,4 +1,4 @@
-# flutter_quiz
+# Flutter Quiz
 
 Flutter Quiz Application Project.
 
